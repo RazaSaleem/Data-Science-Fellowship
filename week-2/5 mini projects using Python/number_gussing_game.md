@@ -1,3 +1,7 @@
+# Number Gussing Game
+
+```python
+
 import random
 
 top_of_range = input("Type a number: ")
@@ -33,3 +37,5 @@ while True:
         print("You were below the number!")
 
 print("You got it in", guesses, "guesses")
+
+```
