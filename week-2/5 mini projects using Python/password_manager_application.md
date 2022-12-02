@@ -1,6 +1,6 @@
 # Password Manager Application
 
-``python
+```python
 from cryptography.fernet import Fernet
 
 '''
