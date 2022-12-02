@@ -53,7 +53,8 @@ __init__.py
 The module namespace can be organized hierarchically using packages and dot notation. Similar to how modules assist in preventing name conflicts between global variables, packages assist in preventing name conflicts between module names.<br>
 
 Since a package uses the operating system's built-in hierarchical file structure, creating one is rather simple. Think about the following configuration:<br>
-**Example**
+**Example**<br>
+![alt Car module & sub packages]([http://url/to/img.png](https://www.codingeek.com/wp-content/uploads/2021/03/fv.png))
 
 ### Importing module from a package
 We can import modules from packages using the dot (.) operator.<br>
