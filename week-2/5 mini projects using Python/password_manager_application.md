@@ -1,3 +1,6 @@
+# Password Manager Application
+
+``python
 from cryptography.fernet import Fernet
 
 '''
@@ -48,3 +51,4 @@ while True:
     else:
         print("Invalid mode.")
         continue
+```
