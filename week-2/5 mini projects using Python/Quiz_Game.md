@@ -1,5 +1,7 @@
 # Quiz Game
 
+```python
+
 print("Welcome to my Laptop quiz!")
 
 playing = input("Do you want to play quiz game? ")
@@ -40,3 +42,5 @@ else:
 
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score / 4) * 100) + "%.")
+
+```
